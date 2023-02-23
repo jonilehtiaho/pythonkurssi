@@ -16,6 +16,7 @@ I have completed HTML and CSS course in our school and i have built a website fo
 - Football
 - Cycling
 - Running
+- Gaming
 
 *Interests*
 - Data Networks
