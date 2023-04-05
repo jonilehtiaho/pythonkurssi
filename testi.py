@@ -9,7 +9,9 @@ osoite = input("Anna lähiosoite: ")
 postinumero = input("Anna postinumero: ")
 kaupunki = input("Anna kaupunki: ")
 maa = input("Anna maa: ")
-syntymavuosi = input("Anna syntymävuosi: ")
+syntymavuosi = int(input("Anna syntymävuosi: "))
+ika = 2023 - syntymavuosi
+
 
 print("")
 print("KIITOS!")
@@ -28,3 +30,4 @@ print("OSOITE:")
 print(f"  {osoite}")
 print(f"  {pnumero} {kaupunki}")
 print(f"  {maa}")
+print(f"IKÄ: {ika}")
