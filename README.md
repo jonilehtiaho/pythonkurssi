@@ -1,1 +1,1 @@
-# MyWebsite
+# Python kurssi!
